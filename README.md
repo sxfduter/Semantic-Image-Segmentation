@@ -7,6 +7,8 @@
   + [paper](https://arxiv.org/abs/1904.11492?context=cs.LG)
   + [code](https://github.com/xvjiarui/GCNet)
 ## 2018
+* CBAM: Convolutional Block Attention Module
+  + [paper](https://arxiv.org/abs/1807.06521)
 * Squeeze-and-Excitation Networks
   + [paper](https://arxiv.org/abs/1709.01507)
 * Graph-Based Global Reasoning Networks
