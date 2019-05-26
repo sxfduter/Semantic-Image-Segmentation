@@ -1,5 +1,8 @@
 # Semantic-Image-Segmentation
 ## 2019
+* Spatial Group-wise Enhance: Improving Semantic Feature Learning in Convolutional Networks
+  + [paper](https://arxiv.org/abs/1905.09646)
+  + [code](https://github.com/implus/PytorchInsight)
 * GCNet: Non-local Networks Meet Squeeze-Excitation Networks and Beyond
   + [paper](https://arxiv.org/abs/1904.11492?context=cs.LG)
   + [code](https://github.com/xvjiarui/GCNet)
